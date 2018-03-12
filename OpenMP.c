@@ -1,6 +1,3 @@
-//Mohamed Amine Ait Mansour
-//201233982
-
 #include <omp.h>
 #include <stdio.h>
 #include <string.h>
@@ -13,7 +10,6 @@
 
 //---------------- initinalisation and declaration-------------
 int Size = 5000000;
-int comm_sz, rank; 
 double t5, t6;
 
 
