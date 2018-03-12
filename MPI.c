@@ -10,7 +10,6 @@
 
 //---------------- initinalisation and declaration-------------
 int Size = 2000000;
-int comm_sz, rank; 
 double t5, t6;
 
 
